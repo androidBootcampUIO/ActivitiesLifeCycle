@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ActivitiesLifeCycle</string>
+    <string name="instructions">Puedes girar la pantalla, interactuar y salir de esta aplicación para observar el ciclo de vida del Activity</string>
 </resources>
